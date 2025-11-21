@@ -89,9 +89,4 @@ Running Average: $45.50
 ✗ Sending to DLQ — Invalid order data
 ```
 
-## ✨ Author
-Developed for **Big Data - Assignment 3**
-
----
-🚀 Happy Streaming!
 
